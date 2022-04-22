@@ -6,7 +6,7 @@
 
 // Specifies the version of Solidity, using semantic versioning.
 //// Learn more: https://solidity.readthedocs.io/en/v0.5.10/layout-of-source-files.html#pragma
-pragma solodity >=0.7.3;
+pragma solidity >=0.7.3;
 
 // Defines a contract named `HelloWorld`.
 // A contract is a collection of functions and data (its state). Once deployed, a contract resides
