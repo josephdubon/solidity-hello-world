@@ -14,7 +14,7 @@ module.exports = {
         hardhat: {},
         ropsten: {
             url: ALCHEMY_API_URL,
-            accounts: [`0x#{METAMASK_PRIVATE_KEY}`]
+            accounts: [`0x${METAMASK_PRIVATE_KEY}`]
         }
     },
 }
